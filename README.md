@@ -7,7 +7,7 @@
 	<!-- 프로그램 주요 화면 -->
   <img width="350" src="https://github.com/user-attachments/assets/e357b894-94e7-4644-9b2b-5ef8f5df0038"/>
   <div align="left">
-    흑돌 육목 및 백돌 승리 화면
+    흑돌(대각선) 육목 및 백돌(세로) 승리 화면
   </div>
 </div>
 
