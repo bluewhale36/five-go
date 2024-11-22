@@ -32,7 +32,7 @@
 |[우승훈](https://github.com/bluewhale36)|PPT 제작, 오류 테스트<br>오목 판단 로직 구현|
 |[차명규](https://github.com/ChaMyeongGyu97)|PPT 제작, 오류 테스트<br>육목 이상 판단 로직 구현|
 |[문형욱](https://github.com/ssamjagod)|PPT 제작, 오류 테스트<br>게임 진행 알림 팝업 창 구현|
-|이혜민|PPT 제작 총괄, 오류 테스트<br>선공 플레이어 선정 로직 구현|
+|이혜민|PPT 제작 총괄, 오류 테스트, 요구사항 정의서 작성<br>선공 플레이어 선정 로직 구현|
 
 
 <br>
